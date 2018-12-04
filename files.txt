@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is ECF7-B155
+
+ Directory of c:\study\MyApp
+
+12/04/2018  10:00 AM    <DIR>          .
+12/04/2018  10:00 AM    <DIR>          ..
+12/04/2018  10:00 AM                 0 files.txt
+12/03/2018  03:00 PM                93 index.html
+               2 File(s)             93 bytes
+               2 Dir(s)  153,241,128,960 bytes free
